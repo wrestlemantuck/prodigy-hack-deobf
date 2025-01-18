@@ -1,3 +1,4 @@
+
 var firstExecution = (function () {
   var isFirstCall = true;
   return function (context, callback) {
